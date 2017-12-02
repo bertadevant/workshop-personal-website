@@ -17,5 +17,5 @@ theater
 
 theater
   .addActor('hero-text-content', { speed: .9, accuracy: 1 })
-  .addScene('hero-text-content: Hey!', 600, -4,'1) Change the profile picture', 600, -29,'2) describe yourself editing this text', 600)
+  .addScene('hero-text-content: Hey!', 600, -4,'I am Waldorf!', 600, -29,'I am an expert tasting amazing food', 600)
   .addScene(theater.replay.bind(theater))
